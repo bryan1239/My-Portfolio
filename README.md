@@ -1,1 +1,3 @@
 # My-Portfolio
+
+Welcome to my portfolio website, where I showcase my achievements, professional goals, and the aspirations that drive my journey. Here, you'll find a detailed overview of the skills I've acquired, the projects I've completed, and the milestones I've reached throughout my career. This site reflects my passion for continuous learning and growth, with a focus on my strengths in web development, design, and problem-solving. All content on this website is crafted using HTML and CSS, ensuring a clean and user-friendly experience. I invite you to explore my work and get a glimpse into the dedication and effort I invest in every project I undertake.
